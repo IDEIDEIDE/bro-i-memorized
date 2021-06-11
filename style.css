@@ -1,0 +1,51 @@
+#header{
+    color: red;
+    background-color: white;
+}
+#header img{
+    width: 100px;
+}
+body{
+    background-color: #f5dbda;;
+}
+#camera, #result{
+    width: 20vw;
+    height: 35vh;
+    border: solid;
+    border-color: white;
+    box-shadow: 5px 5px 5px white;
+}
+
+.camerabutton, .resultbutton{
+    width: 20vw;
+}
+#div1, #div2{
+    border: solid;
+    border-color: white;
+}
+.headerlittle{
+    background-color: white;
+    width: 20vw;
+    height: 5vh;
+    box-shadow: 5px 5px 5px white;
+    margin: 20px;
+}
+#omgsobig{
+    width: 5vw;
+}
+.whitethingy{
+    width: 50vw;
+    background-color: white;
+    box-shadow: 5px 5px 5px white;
+    
+}
+
+#copyrightfooter{
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    border-radius: 10vh;
+    bottom: 0;
+    text-align:  center;
+}
